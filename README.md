@@ -14,12 +14,5 @@ Performing CRUD operation on JsonPowerDB built on top of one of the fastest and 
 ![This is image](https://github.com/Vishall011/JsonPowerDB/blob/main/JsonPowerDB%20Home%20Page.png)
 ![This is img](https://github.com/Vishall011/JsonPowerDB/blob/main/JPDB_CRUD_PUT%20-%20Talend%20API%20Tester.png)
 
-       
-                                  ```Perform CRUD operation```
-                                  
-        ###   PUT
-        ![This is image](https://github.com/Vishall011/JsonPowerDB/blob/main/JPDB_CRUD_PUT.png)
-        
-        ###  GET
-        ![This is image](https://github.com/Vishall011/JsonPowerDB/blob/main/JPDB_CRUD_GET.png)
+      
         
